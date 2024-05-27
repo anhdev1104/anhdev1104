@@ -4,7 +4,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, Javascript, Nodejs, Express, Mongodb, etc.
+- 🛠 &nbsp; I’m currently working with ReactJS, Javascript, Nodejs, Express, Mongodb, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/anhdev1104])(https://github.com/anhdev1104?tab=repositories).
 - 📫 &nbsp; How to reach me: hoanganhdev04@gmail.com
 
